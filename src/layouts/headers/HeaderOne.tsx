@@ -31,7 +31,7 @@ const HeaderOne = ({ style }: any) => {
                 <ul>
                   <li className="line"><a href="#"><i className="bi bi-geo-alt"></i> Madonna House Annex</a></li>
                   <li><a href="#"><i className="bi bi-telephone"></i> +254 114415209</a></li>
-                  <li><a href="#"><i className="bi bi-envelope"></i> info@bescaengineeering.co.ke</a></li>
+                  {/* <li><a href="#"><i className="bi bi-envelope"></i> info@bescaengineeering.co.ke</a></li> */}
                 </ul>
               </div>
             </div>
