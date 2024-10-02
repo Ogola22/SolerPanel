@@ -29,9 +29,9 @@ const HeaderOne = ({ style }: any) => {
             <div className="col-lg-6 col-md-6">
               <div className="solar-top-menu">
                 <ul>
-                  <li className="line"><a href="#"><i className="bi bi-geo-alt"></i> 12/7 new town, USA</a></li>
-                  <li><a href="#"><i className="bi bi-telephone"></i> +199(980) 6915</a></li>
-                  <li><a href="#"><i className="bi bi-envelope"></i> example@gmail.com</a></li>
+                  <li className="line"><a href="#"><i className="bi bi-geo-alt"></i> Madonna House Annex</a></li>
+                  <li><a href="#"><i className="bi bi-telephone"></i> +254 114415209</a></li>
+                  <li><a href="#"><i className="bi bi-envelope"></i> info@bescaengineeering.co.ke</a></li>
                 </ul>
               </div>
             </div>
@@ -41,7 +41,7 @@ const HeaderOne = ({ style }: any) => {
                   <select id="Language">
                     <option value="volvo">Language</option>
                     <option value="saab">English</option>
-                    <option value="opel">Hinde</option>
+                    <option value="opel">Kiswahili</option>
                   </select>
                 </div>
                 <div className="solar-top-social-icon">
