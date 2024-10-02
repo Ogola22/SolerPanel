@@ -7,7 +7,7 @@ import Image from 'next/image';
 
 import HeaderLogoTwo from "@/assets/images/logo2.png";
 
-import HeaderLogo from "@/assets/images/logo.png";
+import HeaderLogo from "@/assets/images/Bescalogo.svg";
 import NavMenu from './Menu/NavMenu';
 import { TeamSocialLinks } from '@/components/common/SocialLinks';
 import UseSticky from '@/hooks/UseSticky';
