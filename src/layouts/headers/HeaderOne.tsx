@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 //test git 
 
-import HeaderLogoTwo from "@/assets/images/logo2.png";
+import HeaderLogoTwo from "@/assets/images/Bescalogo.svg";
 
 import HeaderLogo from "@/assets/images/Bescalogo.svg";
 import NavMenu from './Menu/NavMenu';
