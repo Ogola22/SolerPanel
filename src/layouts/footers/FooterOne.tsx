@@ -10,7 +10,7 @@ import footer_thumb from  "@/assets/images/resource/footer-thumb.png";
 
 const footer_content = {
   sm_info: "Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus risus",
-  list_title: "Industry Sectors",
+  list_title: "Useful Links",
   list_items: [
     {
       title: "Contact us",
@@ -34,9 +34,9 @@ const footer_content = {
     },
   ],
   title: "Get In Touch",
-  address: "Valentin, Street Road 24, New York, USA - 67452",
-  phone: "(+02) 574 - 328 - 30",
-  email: "example@email.com",
+  address: "Madonna House Annex, Westlands Road, Westlands-Nairobi",
+  phone: "(+254)114415209",
+  email: "info@bescaengineering.co.ke",
   bootom_links: [
     'Privercy',
     'Term & Conditions',
