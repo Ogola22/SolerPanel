@@ -17,19 +17,19 @@ const footer_content = {
       link: "/contact",
     },
     {
-      title: "How it Works",
+      title: "Residential Solar",
       link: "#",
     },
     {
-      title: "Office Create",
+      title: "Commercial Solar",
       link: "#",
     },
     {
-      title: "Residential Explore",
+      title: "#TransformingLives",
       link: "#",
     },
     {
-      title: "Terms & Services",
+      title: "Climate Change",
       link: "#",
     },
   ],
