@@ -25,19 +25,19 @@ const contact_content: DataType = {
       id: 1,
       icon: "bi bi-geo-alt-fill",
       title: "Address",
-      info: "7515 Carriage Court, Coachella,",
+      info: "P.O.Box 46837-00100, Nairobi-Kenya",
     },
     {
       id: 2,
       icon: "bi bi-phone-flip",
       title: "Call Us Today",
-      info: "+1 (305) 1234-5678",
+      info: "(+254)114415209/0716457677",
     },
     {
       id: 3,
       icon: "bi bi-envelope",
       title: "Email Us",
-      info: "example@gmail.com",
+      info: "info@bescaengineering.co.ke",
     }
 
   ]
