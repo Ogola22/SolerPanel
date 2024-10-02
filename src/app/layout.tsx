@@ -2,7 +2,7 @@
 import "../style/index.scss";
  
 export const metadata = {
-  title: "SolerPanel-Solar & Renewable Energy React Next js Template",
+  title: "Besca Engineering",
 };
 
 
@@ -15,7 +15,7 @@ export default function RootLayout({
     <html lang="en">
 
       <head>
-        <meta name="description" content="The Solar Panel React Next js template is a modern and responsive design specifically created for websites related to solar energy and renewable energy solutions" />
+        <meta name="description" content="" />
         <link rel="icon" href="favicon.ico" sizes="any" />
         <link
           rel="stylesheet"
