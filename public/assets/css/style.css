@@ -444,7 +444,7 @@ a.handbag:before {
 }       
 
 .solar-btn.protfolio a:hover{
-    color:#e63a27;
+    color:#118d08;
 }
 
 .solar-btn.protfolio a::before{
@@ -458,7 +458,7 @@ a.handbag:before {
 }
 
 .solar-btn.call-back a:hover{
-    color: #e63a27;
+    color: #118d08;
 }
 
 /*==================================================
@@ -466,7 +466,7 @@ a.handbag:before {
 ===================================================*/
 
 .slider-section {
-    background: url(../images/slider/slider-bg.jpg);
+    background: url(../images/slider/slider1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -475,7 +475,7 @@ a.handbag:before {
 }
 
 .slider-section.style-three {
-    background: url(../images/slider/slider3.jpg);
+    background: url(../images/slider/sliders2.jpg);
 
 }
 

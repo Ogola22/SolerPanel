@@ -19,7 +19,7 @@ interface DataType {
 const contact_content: DataType = {
   subtitle: "Contact Wlth Us",
   title: "Get In Touch!",
-  sm_info: "Get in Touch! Contact with us Get in Touch! Contact with us",
+  sm_info: "Call or send us email today!",
   contact_data: [
     {
       id: 1,
