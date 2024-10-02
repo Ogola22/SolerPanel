@@ -80,7 +80,7 @@ Tags: alternative energy, company, eco, eco-friendly, ecology, environment, natu
 
 
 .solar-top-menu ul li a i {
-    color: #e63a27;
+    color: #118d08;
     font-size: 15px;
     margin-right: 7px;
 }
@@ -135,7 +135,7 @@ Tags: alternative energy, company, eco, eco-friendly, ecology, environment, natu
 }
 
 .solar-top-social-icon ul li a:hover i {
-    color: #e63a27;
+    color: #118d08;
 }
 
 
@@ -157,7 +157,7 @@ Tags: alternative energy, company, eco, eco-friendly, ecology, environment, natu
     width: 215%;
     top: 0%;
     left: -182%;
-    background: #e63a27;
+    background: #118d08;
     transform: skew(-30deg, 0deg);
     z-index: -1;
 }
@@ -187,7 +187,7 @@ Tags: alternative energy, company, eco, eco-friendly, ecology, environment, natu
 }
 
 .solar-menu ul li a:hover{
-    color: #e63a27;
+    color: #118d08;
 }
 
 .solar-menu ul li a i {
@@ -223,7 +223,7 @@ a.handbag:before {
     font-size: 11px;
     color: #fff;
     font-weight: 500;
-    background: #e63a27;
+    background: #118d08;
     width: 15px;
     height: 15px;
     line-height: 15px;
@@ -264,7 +264,7 @@ a.handbag:before {
     -webkit-box-shadow: 0px 1px 3px rgb(0 0 0 / 30%);
     transition: .5s;
     visibility: hidden;
-    border-top: 2px solid #e63a27;
+    border-top: 2px solid #118d08;
     opacity: 0;
     z-index: 11;
   }
@@ -283,7 +283,7 @@ a.handbag:before {
     margin: 0;
   }
   .solar-menu ul .sub-menu ul li a:hover {
-    background: #e63a27 !important;
+    background: #118d08 !important;
     color: #fff;
   }
   .solar-menu ul li:hover .sub-menu {
@@ -331,7 +331,7 @@ a.handbag:before {
     border: none;
     outline: none;
     font-size: 17px; 
-    background: #e63a27;
+    background: #118d08;
     color: #fff;
     padding: 13px 25px;
     border-radius: 3px; 
@@ -762,7 +762,7 @@ a.handbag:before {
 .about-section-sub-title h4 {
     font-size: 24px;
     line-height: 24px;
-    color: #e63a27;
+    color: #118d08;
     font-weight: 500;
     margin: 0;
 }
@@ -795,7 +795,7 @@ a.handbag:before {
 }
 
 .about-list ul li i {
-    color: #e63a27;
+    color: #118d08;
     margin-right: 7px;
 }
 .tab_items:hover{
@@ -828,12 +828,12 @@ a.handbag:before {
 }
 
 .tab ul li.current button {
-    background: #e63a27 !important;
+    background: #118d08 !important;
     color: #fff !important;
     border-radius: 3px !important;
 }
 .tab ul li button:hover{
-    background: #e63a27 !important;
+    background: #118d08 !important;
 }
 
 
@@ -854,7 +854,7 @@ a.handbag:before {
 .about-video-icon a {
     height: 65px;
     width: 65px;
-    background: #e63a27;
+    background: #118d08;
     display: inline-block;
     line-height: 65px;
     text-align: center;
@@ -897,7 +897,7 @@ a.handbag:before {
 .about-number-two.style-two h4 {
     height: 65px;
     width: 65px;
-    background: #e63a27;
+    background: #118d08;
     color: #fff;
     line-height: 65px;
     font-size: 30px;
@@ -946,7 +946,7 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     left: 0;
     top: 19px;
 }
@@ -956,14 +956,14 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     left: -12px;
     top: 28px;
 }
 
 .section-sub-title h4 {
     font-size: 24px;
-    color: #e63a27;
+    color: #118d08;
     font-weight: 500;
     margin-bottom: 7px;
     position: relative;
@@ -975,7 +975,7 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     right: 0;
     top: 9px;
 }
@@ -985,7 +985,7 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     right: -12px;
     top: 17px;
 }
@@ -3696,13 +3696,13 @@ blockquote {
 
 .widget-info-social-link ul li a i {
     font-size: 24px;
-    color: #e63a27;
+    color: #118d08;
     font-weight: 400;
     padding-right: 9px;
 }
 
 .widget-info-social-link ul li span:hover {
-    color: #e63a27;
+    color: #118d08;
 }
 
 /* service style three */
@@ -3795,7 +3795,7 @@ blockquote {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #e63a27;
+    background: #118d08;
     border-radius: 50%;
     transform: scale(0);
     transition: .5s;
