@@ -9,7 +9,7 @@ import footer_thumb from  "@/assets/images/resource/footer-thumb.png";
 
 
 const footer_content = {
-  sm_info: "Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus risus",
+  sm_info: "The best Renewable Energy Provider you can think of in Kenya and The East Africa Region. #Powering a Greener Planet.",
   list_title: "Useful Links",
   list_items: [
     {
