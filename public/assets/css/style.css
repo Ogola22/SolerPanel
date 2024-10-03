@@ -347,7 +347,7 @@ a.handbag:before {
     font-size: 17px;
     font-weight: 500;
     letter-spacing: 1px;
-    background: #e63a27;
+    background: #118d08;
     color: #fff;
     padding: 13px 25px;
     border-radius: 3px;
@@ -483,7 +483,7 @@ a.handbag:before {
 .slider-content h4 {
     font-size: 24px;
     line-height: 24px;
-    color: #FFA500;
+    color: #fff;
     font-weight: 500;
     margin-bottom: 28px;
 }
@@ -491,7 +491,7 @@ a.handbag:before {
 .slider-content h1 {
     font-size: 75px;
     line-height: 72px;
-    color: #FFA500;
+    color: #fff;
     font-weight: 600;
 }
 
@@ -642,7 +642,7 @@ a.handbag:before {
 
 .about-counter {
     position: absolute;
-    background: #e63a27;
+    background: #118d08;
     width: 180px;
     height: 158px;
     border-radius: 3px;
@@ -697,7 +697,7 @@ a.handbag:before {
     color: #fff;
     background-color: #fff;
     padding: 0px 25px 11px;
-    border: 2px solid #f00;
+    border: 2px solid #118d08;
     border-radius: 3px;
     width: 325px;
     height: 125px;
@@ -711,14 +711,14 @@ a.handbag:before {
 .about-number-two h4 {
     display: inline-block;
     font-size: 36px;
-    color: #e63a27;
+    color: #118d08;
     font-weight: 500;
     margin-bottom: 9px;
 }
 
 .about-number-two span {
     font-size: 36px;
-    color: #e63a27;
+    color: #118d08;
     font-weight: 500;
 }
 
@@ -744,7 +744,7 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     top: 6px;
     right: 0;
 }
@@ -754,7 +754,7 @@ a.handbag:before {
     content: "";
     height: 2px;
     width: 35px;
-    background: #e63a27;
+    background: #118d08;
     top: 15px;
     right: -12px;
 }
@@ -1144,7 +1144,7 @@ a.handbag:before {
 }
 
 .service-content {
-    background: url(../images/resource/servie-hover.png);
+    background: url(../images/resource/offer-hovers.png);
     background-repeat: no-repeat;
     padding: 0 34px 20px;
     position: relative;
@@ -2767,7 +2767,7 @@ span.fill {
  <-- Solar Panel  Breatcame  Css-->
 ===================================================*/
 .breatcome-section {
-    background: url(../images/resource/breatcame-bg.jpg);
+    background: url(../images/resource/breadcam.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 130px 0;

@@ -1,8 +1,8 @@
 
 
-import service_img_1 from "@/assets/images/resource/service1.png";
-import service_img_2 from "@/assets/images/resource/service2.png";
-import service_img_3 from "@/assets/images/resource/service3.png";
+import service_img_1 from "@/assets/images/resource/services1.jpg";
+import service_img_2 from "@/assets/images/resource/services2.jpg";
+import service_img_3 from "@/assets/images/resource/services3.jpg";
 
 import service_icon_1 from "@/assets/images/resource/service-icon1.png";
 import service_icon_2 from "@/assets/images/resource/service-icon2.png";

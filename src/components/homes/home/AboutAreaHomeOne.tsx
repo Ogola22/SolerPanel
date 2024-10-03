@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 
-import about_thumb from "@/assets/images/about/about-thumb.jpg";
+import about_thumb from "@/assets/images/about/about-thumbs.jpg";
 import about_shape from "@/assets/images/about/about-shape.png";
 interface DataType {
   tab_id: string;
@@ -45,7 +45,7 @@ const tab_data:DataType[] = [
   },
   {
     tab_id: "contact",
-    tab_name: "Visiont",
+    tab_name: "Vision",
     sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
     feature_list_1: [
       "Trusted & Experience",
@@ -55,6 +55,21 @@ const tab_data:DataType[] = [
     feature_list_2: [
       "Board Committees",
       "Board Composition",
+      "Dedicated Support",
+    ]
+  },
+  {
+    tab_id: "profile",
+    tab_name: "Core Values",
+    sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
+    feature_list_1: [
+      "Key Managerial Persons",
+      "Best Insurance Agency",
+      "Trusted & Experience",
+    ],
+    feature_list_2: [
+      "Board Composition",
+      "Board Committees",
       "Dedicated Support",
     ]
   },
@@ -79,7 +94,7 @@ const AboutAreaHomeOne = (style: any) => {
                   <div className="about-counter">
                     <div className="about-counter-text">
                       <div className="about-numbar">
-                        <h4 className="counter">29</h4>
+                        <h4 className="counter">10</h4>
                         <span>+</span>
                       </div>
                       <div className="about-text">
