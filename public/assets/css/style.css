@@ -521,7 +521,7 @@ a.handbag:before {
     width: 62px;
     height: 62px;
     line-height: 62px;
-    background: #e63a27;
+    background: #118d08;
     text-align: center;
     display: inline-block;
     border-radius: 50%;
@@ -535,7 +535,7 @@ a.handbag:before {
 }
 
 .owl-prev i:hover{
-    color: #e63a27;
+    color: #118d08;
  }
 
  .owl-prev i::after{
@@ -583,7 +583,7 @@ a.handbag:before {
     content: "";
     right: 0;
     bottom: 0;
-    background: #e63a27;
+    background: #118d08;
     transform: scale(0);
     border-radius: 50%;
     z-index: -1;
@@ -1723,7 +1723,7 @@ a.active {
 
 }
 .form_error{
-    color: red;
+    color: green;
 }
 
 
