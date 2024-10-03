@@ -16,7 +16,7 @@ const tab_data:DataType[] = [
   {
     tab_id: "home",
     tab_name: "About Us",
-    sm_info: "WaBesca Engineering Comapny Limited (BECL) was founded as a Renewable and Electrical Engineering Firm and has become a reputable player in the transformation of the Energy industry.",
+    sm_info: "Besca Engineering Comapny Limited (BECL) was founded as a Renewable and Electrical Engineering Firm and has become a reputable player in the transformation of the Energy industry.",
     feature_list_1: [
       "Solar PV Systems",
       "Solar Water Pumping",
@@ -26,8 +26,7 @@ const tab_data:DataType[] = [
       "Solar Grid Tied Systems",
       "Solar Water Heating",
       "Solar Street Lighting",
-      "Electrical Installations",
-    ]
+    ],
   },
   {
     tab_id: "profile",
@@ -42,7 +41,7 @@ const tab_data:DataType[] = [
       // "Board Composition",
       // "Board Committees",
       // "Dedicated Support",
-    ]
+    ],
   },
   {
     tab_id: "contact",
@@ -57,10 +56,10 @@ const tab_data:DataType[] = [
       // "Board Committees",
       // "Board Composition",
       // "Dedicated Support",
-    ]
+    ],
   },
   {
-    tab_id: "profile",
+    tab_id: "values",
     tab_name: "Core Values",
     sm_info: "The values that keep us more professional.",
     feature_list_1: [
@@ -71,7 +70,7 @@ const tab_data:DataType[] = [
     feature_list_2: [
       "Integrity",
       "Unity",
-    ]
+    ],
   },
 ]
 
@@ -107,9 +106,9 @@ const AboutAreaHomeOne = (style: any) => {
                       <Image src={about_shape} alt="image-title" />
                     </div>
                     <div className="about-number-two">
-                      <h4 className="counter">2900</h4>
+                      <h4 className="counter">2500 MW</h4>
                       <span>+</span>
-                      <h5>Satisfied Clients</h5>
+                      <h5>Of Solar Installed</h5>
                     </div>
                   </div>
                 </div>
