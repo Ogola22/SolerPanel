@@ -16,10 +16,10 @@ const FaqArea = () => {
                   <h4>Faq Asked</h4>
                 </div>
                 <div className="section-main-title faq">
-                  <h2>What are the benefits of solar energy?</h2>
+                  <h2>Want to Ask Something from Us?</h2>
                 </div>
                 <div className="faq-discription">
-                  <p>Solar energy is renewable, reduces electricity bills, requires low maintenance, and is environmentally friendly, helping reduce carbon emissions and combat climate change.</p>
+                  <p>Asi enim ad minim veniam, quis nostrud exerci Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</p>
                 </div>
               </div>
               <div className="tab_container">
