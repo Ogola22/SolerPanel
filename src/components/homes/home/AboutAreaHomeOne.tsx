@@ -44,8 +44,8 @@ const tab_data:DataType[] = [
     ],
   },
   {
-    tab_id: "contact",
-    tab_name: "vi",
+    tab_id: "cont",
+    tab_name: "vision",
     sm_info: "To be a notable player in the provision of innovative energy solutions & engineering services.",
     feature_list_1: [
       // "Trusted & Experience",
