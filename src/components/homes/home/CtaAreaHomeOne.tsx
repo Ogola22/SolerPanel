@@ -3,8 +3,8 @@ import Link from 'next/link';
 import React from 'react';
 
 const cta_content = {
-  title: "How We Create Solar Energy",
-  sm_des: "Building & Maintaining The Energy",
+  title: "Get to know more about U",
+  sm_des: "Powering a Greener Planet",
 }
 const { title, sm_des } = cta_content
 

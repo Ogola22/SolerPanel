@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { CopyRight, TeamSocialLinks } from '@/components/common/SocialLinks';
 
 import footer_logo from  "@/assets/images/resource/Bescalogo.svg";
-import footer_thumb from  "@/assets/images/resource/footer-thumb.png";
+import footer_thumb from  "@/assets/images/resource/Fotter-thumbs.jpg";
 
 
 const footer_content = {

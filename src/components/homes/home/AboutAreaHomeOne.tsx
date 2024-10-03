@@ -108,7 +108,7 @@ const AboutAreaHomeOne = (style: any) => {
                     <div className="about-number-two">
                       <h4 className="counter">2500</h4>
                       <span>+</span>
-                      <h5>kWp Of Solar Installed</h5>
+                      <h5>kWp Of Solar PV Installed</h5>
                     </div>
                   </div>
                 </div>
