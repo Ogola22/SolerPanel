@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 
 import about_thumb from "@/assets/images/about/about-thumbs.jpg";
-import about_shape from "@/assets/images/about/about-shape.png";
+import about_shape from "@/assets/images/about/about-shapes.jpg";
 interface DataType {
   tab_id: string;
   tab_name: string;
