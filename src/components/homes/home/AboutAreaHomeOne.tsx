@@ -70,7 +70,6 @@ const tab_data:DataType[] = [
     feature_list_2: [
       "Integrity",
       "Unity",
-      "Community and Social Responsibility"
     ],
   },
 ]
@@ -107,9 +106,9 @@ const AboutAreaHomeOne = (style: any) => {
                       <Image src={about_shape} alt="image-title" />
                     </div>
                     <div className="about-number-two">
-                      <h4 className="counter">2500 MW</h4>
+                      <h4 className="counter">2500</h4>
                       <span>+</span>
-                      <h5>Of Solar Installed</h5>
+                      <h5>kWp Of Solar Installed</h5>
                     </div>
                   </div>
                 </div>
