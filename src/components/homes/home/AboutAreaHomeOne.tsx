@@ -70,6 +70,7 @@ const tab_data:DataType[] = [
     feature_list_2: [
       "Integrity",
       "Unity",
+      "Community and Social Responsibility"
     ],
   },
 ]
