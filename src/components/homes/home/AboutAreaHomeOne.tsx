@@ -16,61 +16,61 @@ const tab_data:DataType[] = [
   {
     tab_id: "home",
     tab_name: "About Us",
-    sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
+    sm_info: "WaBesca Engineering Comapny Limited (BECL) was founded as a Renewable and Electrical Engineering Firm and has become a reputable player in the transformation of the Energy industry.",
     feature_list_1: [
-      "Best Insurance Agency",
-      "Trusted & Experience",
-      "Key Managerial Persons",
+      "Solar PV Systems",
+      "Solar Water Pumping",
+      "Solar Hybrid Systems",
     ],
     feature_list_2: [
-      "Dedicated Support",
-      "Board Composition",
-      "Board Committees",
+      "Solar Grid Tied Systems",
+      "Solar Water Heating",
+      "Solar Street Lighting",
+      "Electrical Installations",
     ]
   },
   {
     tab_id: "profile",
     tab_name: "Mission",
-    sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
+    sm_info: "Our mission is to revolutionize the engineering sector through innovative technology and lead the transition to sustainable living and clean environment by helping our customers harness the power of renewable energy sources.",
     feature_list_1: [
-      "Key Managerial Persons",
-      "Best Insurance Agency",
-      "Trusted & Experience",
+      // "Key Managerial Persons",
+      // "Best Insurance Agency",
+      // "Trusted & Experience",
     ],
     feature_list_2: [
-      "Board Composition",
-      "Board Committees",
-      "Dedicated Support",
+      // "Board Composition",
+      // "Board Committees",
+      // "Dedicated Support",
     ]
   },
   {
     tab_id: "contact",
     tab_name: "Vision",
-    sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
+    sm_info: "To be a notable player in the provision of innovative energy solutions & engineering services.",
     feature_list_1: [
-      "Trusted & Experience",
-      "Best Insurance Agency",
-      "Key Managerial Persons",
+      // "Trusted & Experience",
+      // "Best Insurance Agency",
+      // "Key Managerial Persons",
     ],
     feature_list_2: [
-      "Board Committees",
-      "Board Composition",
-      "Dedicated Support",
+      // "Board Committees",
+      // "Board Composition",
+      // "Dedicated Support",
     ]
   },
   {
     tab_id: "profile",
     tab_name: "Core Values",
-    sm_info: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam aperiam, eaquecy epsa abillo inventore veritatis architecto beatae",
+    sm_info: "The values that keep us more professional.",
     feature_list_1: [
-      "Key Managerial Persons",
-      "Best Insurance Agency",
-      "Trusted & Experience",
+      "Prefessionalism",
+      "Punctuality",
+      "Honesty",
     ],
     feature_list_2: [
-      "Board Composition",
-      "Board Committees",
-      "Dedicated Support",
+      "Integrity",
+      "Unity",
     ]
   },
 ]
