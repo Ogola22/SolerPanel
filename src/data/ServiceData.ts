@@ -5,6 +5,7 @@ import service_img_2 from "@/assets/images/resource/services2.jpg";
 import service_img_3 from "@/assets/images/resource/services3.jpg";
 import service_img_4 from "@/assets/images/resource/services4.jpg";
 import service_img_5 from "@/assets/images/resource/services5.jpg";
+import service_img_6 from "@/assets/images/resource/services6.jpg";
 
 // import service_icon_1 from "@/assets/images/resource/service-icon1.png";
 // import service_icon_2 from "@/assets/images/resource/service-icon2.png";
@@ -66,7 +67,18 @@ const service_data: DataType[] = [
     // icon: service_icon_1,
     title: "Sola Floodlights",
     sm_des: "Deye 12kW Hybrid Inverters",
-  }
+  },
+  {
+    id: 6,
+    path: "service",
+    img: service_img_6,
+    // icon: service_icon_1,
+    title: "Grid Tied Solutions ",
+    sm_des: "Huawei Grid Tied Inverters",
+  },
+  
+
+
 
 
 
