@@ -17,10 +17,10 @@ const ServiceAreaHomeOne = ({style, style_2}: any) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <div className="section-sub-title wow slideInLeft">
-                  <h4>Our Most Service</h4>
+                  <h4>Our Services</h4>
                 </div>
                 <div className="section-main-title wow slideInLeft">
-                  <h2>Provide Solar Solution</h2>
+                  <h2>Solar PV Solutions</h2>
                 </div>
               </div>
             </div>
