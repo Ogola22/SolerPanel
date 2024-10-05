@@ -34,9 +34,9 @@ const ServiceAreaHomeOne = ({style, style_2}: any) => {
                   <div className="service-thumb">
                     <Image src={item.img} style={{height: 'auto'}} alt="image-title" />
                     <div className="service-content">
-                      <div className="service-icon-thumb">
+                      {/* <div className="service-icon-thumb">
                         <Image src={item.icon} alt="image-title" />
-                      </div>
+                      </div> */}
                       <div className="service-text">
                         <h4><Link href="/service-details">{item.title}</Link></h4>
                         <p>{item.sm_des}</p>

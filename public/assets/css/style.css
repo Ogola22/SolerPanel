@@ -1144,7 +1144,7 @@ a.handbag:before {
 }
 
 .service-content {
-    background: url(../images/resource/offer-hovers.png);
+    /* background: url(../images/resource/offer-hovers.png); */
     background-repeat: no-repeat;
     padding: 0 34px 20px;
     position: relative;
