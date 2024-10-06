@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const cta_content = {
-  title: "Get to know more about U",
+  title: "Get to know more about Us",
   sm_des: "Powering a Greener Planet",
 }
 const { title, sm_des } = cta_content
