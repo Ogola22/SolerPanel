@@ -6,7 +6,7 @@ import React, { useState } from 'react';
 const VedioAreaHomeOne = ({style}: any) => {
   const [isVideoOpen, setIsVideoOpen] = useState<boolean>(false);
 
-  const bg_img = style? "/assets/images/resource/call-do-bg2.jpg" : "/assets/images/resource/call-do-bg.jpg"
+  const bg_img = style? "/assets/images/resource/call-do-bg2.jpg" : "/assets/images/resource/call-do-bgs"
 
   return (
     <>
