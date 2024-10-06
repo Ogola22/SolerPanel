@@ -122,8 +122,8 @@ a.meanmenu-reveal{display:none}
 .mean-container .mean-bar::before {
     color: #fff;
     content: "Besca Engineering Co Ltd.";
-    font-size: 26px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 500;
     left: 10px;
     position: absolute;
     top: 10px;
