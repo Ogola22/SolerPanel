@@ -15,11 +15,11 @@ interface DataType {
 const priceing_data: DataType[] = [
   {
     id: 1,
-    price_date: "Yearly",
-    price: 148,
-    time: "15 Days Free",
-    sm_des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
-    price_value: "Best Value",
+    price_date: "Kgs",
+    price: 2400000,
+    time: "Amount of Carbon emission prevented",
+    sm_des: "We are committed to playing a vital role in the global effort to reduce carbon emissions and mitigate climate change.",
+    price_value: "Carbon Emissions",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const priceing_data: DataType[] = [
     price: 121,
     time: "12 Days Free",
     sm_des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
-    price_value: "Best Value",
+    price_value: "Tree Planted",
   }
 ]
 
@@ -41,7 +41,7 @@ const PricingAreaHomeOne = () => {
             <div className="col-lg-6 col-md-12">
               <div className="section-title">
                 <div className="section-sub-title pricing wow animate__fadeInDown">
-                  <h4>Our Prlcing Table</h4>
+                  <h4>Fighting Climate Change</h4>
                 </div>
                 <div className="section-main-title pricing wow animate__fadeInUp">
                   <h2>Want to Ask Something</h2>
@@ -58,7 +58,7 @@ const PricingAreaHomeOne = () => {
                       <h4>{item.price_date}</h4>
                     </div>
                     <div className="pricing-rate">
-                      <h2>${item.price}<span>.99</span></h2>
+                      <h2>{item.price}<span>Kgs</span></h2>
                     </div>
                   </div>
                   <div className="pricing-icon">
