@@ -65,7 +65,7 @@ const ContactAreaHomeOne = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 col-md-12">
+            {/* <div className="col-lg-6 col-md-12">
               <div className="choose-contact-box wow animate__slideInRight">
                 <div className="choose-contact-title">
                   <h4>Make an Appointment</h4>
@@ -75,7 +75,7 @@ const ContactAreaHomeOne = () => {
 
 
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
