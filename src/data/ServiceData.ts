@@ -31,16 +31,16 @@ const service_data: DataType[] = [
     path: "home_1",
     img: service_img_1,
     // icon: service_icon_1,
-    title: "Residential Solar",
-    sm_des: "Suspendisse natoque elit in eget orci amet volutpat, est. Integer mauris feugiat",
+    title: "Solar PV Systems",
+    sm_des: "We specialize in the Design, Installation, and Maintenance of Solar Photovoltaic (PV) systems.",
   },
   {
     id: 2,
     path: "home_1",
     img: service_img_2,
     // icon: service_icon_2,
-    title: "Roof Solar Panels",
-    sm_des: "Suspendisse natoque elit in eget orci amet volutpat, est. Integer mauris feugiat",
+    title: "Grid-Tied and Off-Grid Solutions",
+    sm_des: "We offer both Grid-tied Systems, Hybrid Systems & Off-grid Systems.",
   },
   {
     id: 3,
@@ -48,7 +48,7 @@ const service_data: DataType[] = [
     img: service_img_3,
     // icon: service_icon_3,
     title: "Solar Water Heating",
-    sm_des: "Suspendisse natoque elit in eget orci amet volutpat, est. Integer mauris feugiat",
+    sm_des: "We offer Solar Water Heating Systems, which are efficient and eco-friendly solutions designed to meet the hot water needs of residential, commercial, and industrial clients",
   },
   
   // service
