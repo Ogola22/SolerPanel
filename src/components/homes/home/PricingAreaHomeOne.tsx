@@ -15,19 +15,19 @@ interface DataType {
 const priceing_data: DataType[] = [
   {
     id: 1,
-    price_date: "Kgs",
-    price: 2400000,
-    time: "Amount of Carbon emission prevented",
+    price_date: "Tones",
+    price: 90,
+    time: "Amount of Carbon Emission Prevented",
     sm_des: "We are committed to playing a vital role in the global effort to reduce carbon emissions and mitigate climate change.",
     price_value: "Carbon Emissions",
   },
   {
     id: 2,
-    price_date: "Yearly",
-    price: 121,
-    time: "12 Days Free",
-    sm_des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
-    price_value: "Tree Planted",
+    price_date: "Trees",
+    price: 240000,
+    time: "Fully Grown Trees",
+    sm_des: "Over the years of operation, we have been able to install 2,500kWp of Solar PV equivalent to planting over 240,000 hence helping to mitigate the climate change problem",
+    price_value: "Trees Planted",
   }
 ]
 
@@ -58,14 +58,14 @@ const PricingAreaHomeOne = () => {
                       <h4>{item.price_date}</h4>
                     </div>
                     <div className="pricing-rate">
-                      <h2>{item.price}<span>Kgs</span></h2>
+                      <h2>{item.price}<span></span></h2>
                     </div>
                   </div>
                   <div className="pricing-icon">
                     <i className="bi bi-check2"></i>
                   </div>
                   <div className="pricing-content">
-                    <h4>{item.time}</h4>
+                    <h5>{item.time}</h5>
                     <p>{item.sm_des}</p>
                   </div>
                   <div className="pricing-value">
