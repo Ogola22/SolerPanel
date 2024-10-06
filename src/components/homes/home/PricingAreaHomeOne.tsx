@@ -26,7 +26,7 @@ const priceing_data: DataType[] = [
     price_date: "Trees",
     price: 240000,
     time: "Fully Grown Trees",
-    sm_des: "Over the years of operation, we have been able to install 2,500kWp of Solar PV equivalent to planting over 240,000 hence helping to mitigate the climate change problem",
+    sm_des: "Over the years of operation, we have been able to install over 2,500kWp of Solar PV equivalent to planting over 240,000 hence helping to mitigate the climate change problem",
     price_value: "Trees Planted",
   }
 ]
