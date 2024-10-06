@@ -1,21 +1,23 @@
 
 import React from 'react';
 import ContactFormHomeOne from '@/components/forms/ContactFormHomeOne';
-import contact_img_1 from "@/assets/images/resource/choose-thumb.png";
+import contact_img_1 from "@/assets/images/resource/Choose.png";
 import Image from 'next/image';
 
 
 const contact_area_content = {
   subtitle: 'Why Choose Us',
-  title: 'Best Solution For Your',
-  sm_des: "Risus commodo viverra maecenas accumsan lacus vel facilisis. Horem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.",
+  title: 'We are the Best',
+  sm_des: "Besca Engineering has extensive experience in both solar installations and electrical works, with a portfolio of successfully completed projects across various scales.",
   festures: [
-    "Best of Perfect Shine",
-    "Geeen Energy Green Natural",
-    "Solar Energy fou All The ",
+    "Expertise and Experience",
+    "Quality and Reliability",
+    "Customized Solutions ",
+    "Customer Satisfaction",
+    "Innovation and Technology",
   ],
   btn_text: "Get A Quout",
-  phone: <>Emergency Call <span>+123956(6565)556-02</span></>,
+  phone: <>Call <span>(+254)114415209</span></>,
 
 }
 
