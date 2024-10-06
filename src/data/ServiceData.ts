@@ -39,8 +39,8 @@ const service_data: DataType[] = [
     path: "home_1",
     img: service_img_2,
     // icon: service_icon_2,
-    title: "Grid-Tied and Off-Grid Solutions",
-    sm_des: "We offer both Grid-tied Systems, Hybrid Systems & Off-grid Systems.",
+    title: "Hybrid, Off-Grid, & Grid-tied Solutions",
+    sm_des: "We offer both Hybrid, Off-grid & Grid-tied Systems.",
   },
   {
     id: 3,
