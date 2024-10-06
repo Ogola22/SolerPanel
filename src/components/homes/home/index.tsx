@@ -8,7 +8,7 @@ import CtaAreaHomeOne from './CtaAreaHomeOne';
 import PricingAreaHomeOne from './PricingAreaHomeOne';
 import VedioAreaHomeOne from './VedioAreaHomeOne';
 import ContactAreaHomeOne from './ContactAreaHomeOne';
-import ProtfolioAreaHomeOne from './ProtfolioAreaHomeOne';
+// import ProtfolioAreaHomeOne from './ProtfolioAreaHomeOne';
 import OfferAreaHomeOne from './OfferAreaHomeOne';
 import TeamAreaHomeOne from './TeamAreaHomeOne';
 import AppointmentAreaHomeOne from './AppointmentAreaHomeOne';
@@ -29,7 +29,7 @@ const HomeOne = () => {
         <PricingAreaHomeOne />
         <VedioAreaHomeOne />
         <ContactAreaHomeOne />
-        <ProtfolioAreaHomeOne />
+        {/* <ProtfolioAreaHomeOne /> */}
         <OfferAreaHomeOne />
         <TeamAreaHomeOne />
         <AppointmentAreaHomeOne />
