@@ -15,26 +15,26 @@ interface DataType {
 const hero_slider_data: DataType[] = [
   {
     id: 1,
-    subtitle: "Our Solar Systems",
+    subtitle: "",
     title: <>Powering Societies by <br /> Reliable Solar Energy</>,
     sm_des: "In Kenya today there are a good number of communities that live without access to electricity. We have been able to do Solar Installations in such communities.",
   },
   {
     id: 2,
-    subtitle: "Our Solar Systems",
+    subtitle: "",
     title: <>Powering a <br /> Greener Planet </>,
     sm_des: "We are dedicated to mitigating the current global problem of climate change and we belive together we can save our planet.",
   },
   // update for swiper 
   {
     id: 3,
-    subtitle: "Our Solar Systems",
+    subtitle: "",
     title: <>Besca Solar <br /> Packages</>,
     sm_des: "We have tailormade solar system packages that suits our cuatomers across the board. Ranging from smaller systems to bigger systems for residential use.",
   },
   {
     id: 4,
-    subtitle: "Our Solar Systems",
+    subtitle: "",
     title: <>Energize Society By <br /> Reliadle Energy</>,
     sm_des: "The increase in extreme weather events and rising sea levels are unmistakable signs of climate change. Roughly 850 million people still live without access to electricity",
   },

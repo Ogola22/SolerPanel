@@ -6,6 +6,7 @@ import service_img_3 from "@/assets/images/resource/services3.jpg";
 import service_img_4 from "@/assets/images/resource/services4.jpg";
 import service_img_5 from "@/assets/images/resource/services5.jpg";
 import service_img_6 from "@/assets/images/resource/services6.jpg";
+import service_img_7 from "@/assets/images/resource/Service7.jpg";
 
 // import service_icon_1 from "@/assets/images/resource/service-icon1.png";
 // import service_icon_2 from "@/assets/images/resource/service-icon2.png";
@@ -76,7 +77,14 @@ const service_data: DataType[] = [
     title: "Grid Tied Solutions ",
     sm_des: "Huawei Grid Tied Inverters",
   },
-  
+  {
+    id: 7,
+    path: "service",
+    img: service_img_7,
+    // icon: service_icon_1,
+    title: "Solar Water Pumping",
+    sm_des: "Pumping water to your farm with Solar Energy",
+  },
 
 
 
