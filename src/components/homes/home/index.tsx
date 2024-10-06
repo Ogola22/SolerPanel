@@ -10,9 +10,9 @@ import VedioAreaHomeOne from './VedioAreaHomeOne';
 import ContactAreaHomeOne from './ContactAreaHomeOne';
 // import ProtfolioAreaHomeOne from './ProtfolioAreaHomeOne';
 import OfferAreaHomeOne from './OfferAreaHomeOne';
-import TeamAreaHomeOne from './TeamAreaHomeOne';
+// import TeamAreaHomeOne from './TeamAreaHomeOne';
 import AppointmentAreaHomeOne from './AppointmentAreaHomeOne';
-import BlogAreaHomeOne from './BlogAreaHomeOne';
+// import BlogAreaHomeOne from './BlogAreaHomeOne';
 import SubscribeAreaHomeOne from './SubscribeAreaHomeOne';
 import FooterOne from '@/layouts/footers/FooterOne'; 
 
@@ -31,9 +31,9 @@ const HomeOne = () => {
         <ContactAreaHomeOne />
         {/* <ProtfolioAreaHomeOne /> */}
         <OfferAreaHomeOne />
-        <TeamAreaHomeOne />
+        {/* <TeamAreaHomeOne /> */}
         <AppointmentAreaHomeOne />
-        <BlogAreaHomeOne />
+        {/* <BlogAreaHomeOne /> */}
         <SubscribeAreaHomeOne />
       </main>
       <FooterOne /> 
