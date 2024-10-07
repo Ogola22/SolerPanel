@@ -11,7 +11,7 @@ const ProjectGrid = () => {
     <>
       <HeaderOne />
       <main>
-        <Breadcrumb top_title="Project Grid" title="Project Grid" />
+        <Breadcrumb top_title="Our Projects" title="Our Projects" />
         <ProjectGridArea />
         <SubscribeAreaHomeOne />
       </main>
