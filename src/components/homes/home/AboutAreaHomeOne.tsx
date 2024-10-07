@@ -120,8 +120,7 @@ const AboutAreaHomeOne = (style: any) => {
                   <h4>Our Introductton</h4>
                 </div>
                 <div className="about-section-main-title wow slideInRight">
-                  <h2>We're Developing Future
-                    Solar Solutions </h2>
+                  <h2>The Best Solar PV Solutions Provider in Africa</h2>
                 </div>
               </div>
               {/* <!-- tab --> */}
@@ -174,7 +173,7 @@ const AboutAreaHomeOne = (style: any) => {
                               </div>
                             </div>
                             <div className="solar-btn about wow slideInDown">
-                              <a href="#">Our Service <i className="bi bi-arrow-right"></i></a>
+                              <a href="#">Our Services <i className="bi bi-arrow-right"></i></a>
                             </div>
                           </div>
                         </div>
