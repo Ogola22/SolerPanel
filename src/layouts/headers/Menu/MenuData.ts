@@ -34,12 +34,12 @@ const menu_data: DataType[] = [
 	{
 		id: 3,
 		title: "Service",
-		link: "#",
-		has_dropdown: true,
-		sub_menus: [
-			{ link: "/service", title: "Services" },
-			{ link: "/service-details", title: "Services Details" },
-		],
+		link: "/service",
+		has_dropdown: false,
+		// sub_menus: [
+		// 	{ link: "/service", title: "Services" },
+		// 	{ link: "/service-details", title: "Services Details" },
+		// ],
 	},
 	{
 		id: 4,
