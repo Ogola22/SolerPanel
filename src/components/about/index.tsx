@@ -6,7 +6,7 @@ import Breadcrumb from '../common/breadcrumb/breadcrumb';
 import AboutAreaHomeOne from '../homes/home/AboutAreaHomeOne';
 import ServiceAreaHomeOne from '../homes/home/ServiceAreaHomeOne';
 import CtaAreaHomeOne from '../homes/home/CtaAreaHomeOne';
-import TeamAreaHomeOne from '../homes/home/TeamAreaHomeOne';
+// import TeamAreaHomeOne from '../homes/home/TeamAreaHomeOne';
 import SubscribeAreaHomeOne from '../homes/home/SubscribeAreaHomeOne';
 
 const About = () => {
@@ -18,7 +18,7 @@ const About = () => {
         <AboutAreaHomeOne style={true} />
         <ServiceAreaHomeOne />
         <CtaAreaHomeOne />
-        <TeamAreaHomeOne />
+        {/* <TeamAreaHomeOne /> */}
         <SubscribeAreaHomeOne />
       </main>
       <FooterOne />
