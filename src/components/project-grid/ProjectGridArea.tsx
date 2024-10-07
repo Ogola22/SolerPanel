@@ -65,7 +65,7 @@ const ProjectGridArea = () => {
                     <Image src={item.img} style={{ height: "auto" }} alt="image-title" />
                   </div>
                   <div className="project-content">
-                    <h4>{item.title}</h4>
+                    <h5>{item.title}</h5>
                     <span>{item.category}</span>
                   </div>
                 </div>
