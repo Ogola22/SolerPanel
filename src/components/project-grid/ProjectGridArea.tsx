@@ -1,6 +1,7 @@
 'use client'
 import project_data from '@/data/ProjectData';
 import Image from 'next/image';
+import Link from 'next/link';
 import React, { useState } from 'react';
 
 // data
@@ -62,7 +63,7 @@ const ProjectGridArea = () => {
               <div key={i} className="col-lg-4 col-md-6 grid-item physics math mb-30">
                 <div className="project-grid-box">
                   <div className="project-thumb">
-                    <Image src={item.img} style={{ height: "auto" }} alt="image-title" />
+                  <Link href='/project-details'><Image src={item.img} style={{ height: "auto" }} alt="image-title" /></Link>
                   </div>
                   <div className="project-content">
                     <h5>{item.title}</h5>

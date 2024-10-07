@@ -2,9 +2,9 @@
 import React from 'react';
 import Image from 'next/image';
 
-import project_details_img_1 from "@/assets/images/resource/project-details1.jpg";
-import project_details_img_2 from "@/assets/images/resource/service3.png";
-import { TeamSocialLinks } from '../common/SocialLinks';
+import project_details_img_1 from "@/assets/images/resource/services1.jpg";
+import project_details_img_2 from "@/assets/images/resource/services4.jpg";
+// import { TeamSocialLinks } from '../common/SocialLinks';
 
 
 interface DataType {
@@ -17,16 +17,15 @@ interface DataType {
 
 
 const project_content: DataType = {
-  title_1: "Description of Situation",
-  sm_des: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nul pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus e voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae",
+  title_1: "Project Description",
+  sm_des: "Besca Engineering successfully executed a Solar Photovoltaic (PV) project for Kajiado Law Courts, aimed at enhancing energy sustainability and improving operational efficiency. The project involved installing a 16.5kWp solar PV system with battery storage capacity to provide an uninterrupted power supply for the court’s daily operations.",
   title_2: "client's goal",
-  sm_info: "The result of employees, over 115 detailers and engineers, all coming together to solve probl before they arise. the teamwork it demonstrates both internally and externally is outstandingThe result of employees, over 115 detailers and engineers, all coming together to solve problem before they",
+  sm_info: "To transform Kajiado Law Courts into a model of energy efficiency and operational reliability, fostering a more effective justice system for the local community.",
   feature: [
-    "The triple pressures of more regulations outstanding in the creation.",
-    "The legacy of the financial crisis has meant a few tricky years",
-    "Now, the triple pressures of more regulations more regulations",
-    "Outstanding in the creation he triple pressures of more regulations",
-    "The triple pressures of more regulations outstanding in the creation",
+    "Reduction in Electricity Bills",
+    "Power Reliability for Continuous Court Hearings",
+    "Access to Justice without Delays",
+    "Mitigating the Common Global problem of Climate Change",
   ]
 }
 
@@ -52,31 +51,31 @@ const ProjectDetailsArea = () => {
                 <ul className="info">
                   <li>
                     <h6>project name:</h6>
-                    <p>solar & exterior design</p>
+                    <p>Solar PV Installation</p>
                   </li>
                   <li>
                     <h6>client:</h6>
-                    <p>theme pvt ltd</p>
+                    <p>Kajiado Law Courts</p>
                   </li>
                   <li>
                     <h6>category:</h6>
-                    <p>commercial</p>
+                    <p>Justice</p>
                   </li>
-                  <li>
+                  {/* <li>
                     <h6>delivery mode:</h6>
                     <p>in hand delivery</p>
-                  </li>
+                  </li> */}
                   <li>
                     <h6>location:</h6>
-                    <p>USA</p>
+                    <p>Kajiado County</p>
                   </li>
 
-                  <li>
+                  {/* <li>
                     <h6>share:</h6>
                     <ul className="d-flex social_icon">
                       <TeamSocialLinks />
                     </ul>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
