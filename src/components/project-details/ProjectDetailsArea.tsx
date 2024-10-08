@@ -32,7 +32,7 @@ const project_content: DataType = {
 const { title_1, sm_des, title_2, sm_info, feature } = project_content
 
 
-const KajiadoProject = () => {
+const ProjectDetails = () => {
   return (
     <>
       <div className="project-details-section">
@@ -112,4 +112,4 @@ const KajiadoProject = () => {
   );
 };
 
-export default KajiadoProject;
+export default ProjectDetails;
