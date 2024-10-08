@@ -2,7 +2,7 @@
 import React from 'react';
 import HeaderOne from '@/layouts/headers/HeaderOne';
 import Breadcrumb from '../common/breadcrumb/breadcrumb';
-import ProjectDetailsArea from './KajiadoProject';
+import KajiadoProject from './KajiadoProject';
 import FooterOne from '@/layouts/footers/FooterOne';
 
 const ProjectDetails = () => {
@@ -11,7 +11,7 @@ const ProjectDetails = () => {
       <HeaderOne />
       <main>
         <Breadcrumb top_title='Project Details' title='Project Details' />
-        <ProjectDetailsArea />
+        <KajiadoProject />
       </main>
       <FooterOne />
     </>
