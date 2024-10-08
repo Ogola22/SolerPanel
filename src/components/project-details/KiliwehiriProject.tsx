@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Image from 'next/image';
 
@@ -32,7 +31,7 @@ const project_content: DataType = {
 const { title_1, sm_des, title_2, sm_info, feature } = project_content
 
 
-const KajiadoProject = () => {
+const KiliwehiriProject = () => {
   return (
     <>
       <div className="project-details-section">
@@ -51,15 +50,15 @@ const KajiadoProject = () => {
                 <ul className="info">
                   <li>
                     <h6>project name:</h6>
-                    <p>Solar PV Installation</p>
+                    <p>Solar PV Minigrid</p>
                   </li>
                   <li>
                     <h6>client:</h6>
-                    <p>Kajiado Law Courts</p>
+                    <p>Lean Energy Solutions</p>
                   </li>
                   <li>
                     <h6>category:</h6>
-                    <p>Justice</p>
+                    <p>Community</p>
                   </li>
                   {/* <li>
                     <h6>delivery mode:</h6>
@@ -67,7 +66,7 @@ const KajiadoProject = () => {
                   </li> */}
                   <li>
                     <h6>location:</h6>
-                    <p>Kajiado County</p>
+                    <p>Kiliwehiri-Mandera County</p>
                   </li>
 
                   {/* <li>
@@ -112,4 +111,4 @@ const KajiadoProject = () => {
   );
 };
 
-export default KajiadoProject;
+export default KiliwehiriProject;
