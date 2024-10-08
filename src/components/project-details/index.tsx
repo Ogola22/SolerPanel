@@ -2,7 +2,7 @@
 import React from 'react';
 import HeaderOne from '@/layouts/headers/HeaderOne';
 import Breadcrumb from '../common/breadcrumb/breadcrumb';
-import ProjectDetailsArea from './ProjectDetailsArea';
+import ProjectDetailsArea from './KajiadoProject';
 import FooterOne from '@/layouts/footers/FooterOne';
 
 const ProjectDetails = () => {
