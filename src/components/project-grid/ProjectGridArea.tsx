@@ -63,7 +63,7 @@ const ProjectGridArea = () => {
               <div key={i} className="col-lg-4 col-md-6 grid-item physics math mb-30">
                 <div className="project-grid-box">
                   <div className="project-thumb">
-                  <Link href='/kajiado-project'><Image src={item.img} style={{ height: "auto" }} alt="image-title" /></Link>
+                  <Link href='/KajiadoProject'><Image src={item.img} style={{ height: "auto" }} alt="image-title" /></Link>
                   </div>
                   <div className="project-content">
                     <h5>{item.title}</h5>
