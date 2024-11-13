@@ -56,7 +56,7 @@ const project_content: DataType = {
                     </li>
                     <li>
                       <h6>category:</h6>
-                      <p>Justice</p>
+                      <p>Judiciary</p>
                     </li>
                     {/* <li>
                       <h6>delivery mode:</h6>
