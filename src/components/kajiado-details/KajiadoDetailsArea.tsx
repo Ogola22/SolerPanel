@@ -15,7 +15,7 @@ interface DataType {
   
 const project_content: DataType = {
     title_1: "Project Description",
-    sm_des: "Besca Engineering successfully executed a Solar Photovoltaic (PV) project for Kajiado Law Courts, aimed at enhancing energy sustainability and improving operational efficiency. The project involved installing a 16.5kWp solar PV system with battery storage capacity to provide an uninterrupted power supply for the court’s daily operations.",
+    sm_des: "Besca Engineering successfully executed a Solar Photovoltaic (PV) project for Kajiado Law Courts, aimed at enhancing energy sustainability and improving operational efficiency. The project involved installing a 17.25kWp solar PV system with battery storage capacity to provide an uninterrupted power supply for the court’s daily operations.",
     title_2: "client's goal",
     sm_info: "To transform Kajiado Law Courts into a model of energy efficiency and operational reliability, fostering a more effective justice system for the local community.",
     feature: [
