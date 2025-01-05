@@ -153,7 +153,7 @@ type copy_right_text_type = {
 
 const copy_right_text: copy_right_text_type = {
   copy_right: <>
-     ©{new Date().getFullYear()} | Alrights reserved <a href="#" target="_blank"><br />Besca Engineering Co Limited</a>
+     ©{new Date().getDate()} | Alrights reserved <a href="#" target="_blank"><br />Besca Engineering Co Limited</a>
   </>
 }
 
